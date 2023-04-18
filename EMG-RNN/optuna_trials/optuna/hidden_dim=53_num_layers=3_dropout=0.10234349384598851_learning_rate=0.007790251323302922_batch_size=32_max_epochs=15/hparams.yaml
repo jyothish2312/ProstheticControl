@@ -1,0 +1,7 @@
+bidirectional: false
+dropout: 0.10234349384598851
+hidden_dim: 53
+input_dim: 2
+learning_rate: 0.007790251323302922
+num_layers: 3
+output_dim: 1
